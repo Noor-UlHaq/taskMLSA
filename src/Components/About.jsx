@@ -24,7 +24,7 @@ const imageAltText = "this is a wang bird";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Much like the watchful eye of a bird, I keep a keen focus on the user. Understanding their needs, preferences, and behaviors allows me to create interfaces that not only look stunning but also provide an effortless and enjoyable experience..";
+  "Much like the watchful eyes of a bird, I keep a keen focus on the user. Understanding their needs, preferences, and behaviors allows me to create interfaces that not only look stunning but also provide an effortless and enjoyable experience..";
 
 /**
  * List of some of skills or technologies you work on, are learning,
